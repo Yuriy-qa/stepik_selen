@@ -4,3 +4,4 @@ current_dir = os.path.abspath(os.path.dirname(__test_))    # получаем п
 file_path = os.path.join(current_dir, 'test.txt')           # добавляем к этому пути имя файла
 
 
+py
